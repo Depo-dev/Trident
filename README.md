@@ -76,7 +76,6 @@ The indexer is written in **Rust** — chosen for a system that needs to run 24/
 ## Project Status
 
 - [x] Architecture defined
-- [x] Full specification written — [`docs/SPECIFICATION.md`](./docs/SPECIFICATION.md)
 - [ ] Repository scaffolding
 - [ ] Phase 1 development begins
 
@@ -90,7 +89,7 @@ The codebase isn't public yet. The most useful contributions right now:
 - **Share your use case** — what would you build on Trident? What queries do you need? Open a [Discussion](https://github.com/trident-build/trident/discussions)
 - **Challenge the architecture** — if you've built something similar, your experience matters
 
-Once development is underway, the full contribution guide is in [CONTRIBUTING.md](./CONTRIBUTING.md).
+Once development is underway, the full contribution guide is in [CONTRIBUTING.md](https://github.com/Depo-dev/Trident/blob/main/contribute.md).
 
 ---
 
@@ -104,6 +103,6 @@ MIT — see [LICENSE](./LICENSE).
 
 *Build on Stellar. Query everything.*
 
-[Discussions](https://github.com/trident-build/trident/discussions) · [Specification](./docs/SPECIFICATION.md) · [Contributing](./CONTRIBUTING.md)
+[Discussions](https://github.com/trident-build/trident/discussions)  · [Contributing](./CONTRIBUTING.md)
 
 </div>
